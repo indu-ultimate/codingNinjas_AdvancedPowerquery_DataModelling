@@ -1,0 +1,2 @@
+# codingNinjas_AdvancedPowerquery_DataModelling
+exercises
